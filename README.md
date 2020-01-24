@@ -9,4 +9,6 @@ Terminal command run browser
 
 $$ java SimpleMiniWebBrowser
 
+https not work alternative http yes work
+
 OS8.0 modification javac https://github.com/Griggorii/Cinnamon-Budgie-Linux-OS-20-based-19.10-Ubuntu-Pop
